@@ -1,7 +1,4 @@
-<h1 align="center">Ram Kishor Bajpai</h1>
-
-<h1 align="center">Hi there 👋</h1>
-
+<h1 align="center">👋 Hey there!</h1>
 
 I'm **Ram Kishor Bajpai**, a passionate and experienced Senior Software Engineer with a knack for building efficient and scalable web applications and services. Currently, I'm honing my skills at Dream Sports (SoStronk), managing a diverse set of technology projects.
 

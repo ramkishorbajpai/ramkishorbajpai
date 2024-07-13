@@ -55,7 +55,5 @@ I'm always open to interesting conversations and collaborations. Feel free to re
 ---
 
 <p align="center">
-    <br/>
-    <br/>
     <a href="https://buymeacoffee.com/ramkishorbajpai"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Ram Kishor Bajpai | Buy me a coffee" /></a>
 </p>

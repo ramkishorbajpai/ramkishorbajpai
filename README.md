@@ -100,15 +100,22 @@ I'm always open to interesting conversations and collaborations. Feel free to re
 </p>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://www.google.com/search?q=Ram+Kishor+Bajpai" style="text-decoration: none; color: inherit;">
-    <div style="display: flex; align-items: center;">
-      🧐&nbsp;&nbsp;Find out more about me!
-    </div>
-  </a>
-  <a href="https://medium.com/@ramkishorbajpai" style="text-decoration: none; color: inherit;">
-    <div style="display: flex; align-items: center;">
-      📄&nbsp;&nbsp;See my latest posts!
-    </div>
-  </a>
-</div>
+<a href="https://www.google.com/search?q=Ram+Kishor+Bajpai">
+  <table align="left">
+      <tr>
+          <td>
+            🧐&nbsp;&nbsp;Find out more about me!
+          </td>
+      </tr>
+  </table>
+</a>
+<a href="https://medium.com/@ramkishorbajpai">
+  <table align="right">
+      <tr>
+          <td>
+            📄&nbsp;&nbsp;See my latest posts!
+          </td>
+      </tr>
+  </table>
+</a>
+<div style="clear: both;"></div>

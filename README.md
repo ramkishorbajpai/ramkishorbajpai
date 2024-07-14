@@ -98,3 +98,17 @@ I'm always open to interesting conversations and collaborations. Feel free to re
 <p align="center">
     <a href="https://buymeacoffee.com/ramkishorbajpai"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Ram Kishor Bajpai | Buy me a coffee" /></a>
 </p>
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://www.google.com/search?q=Ram+Kishor+Bajpai" style="text-decoration: none; color: inherit;">
+    <div style="display: flex; align-items: center;">
+      🧐&nbsp;&nbsp;Find out more about me!
+    </div>
+  </a>
+  <a href="https://medium.com/@ramkishorbajpai" style="text-decoration: none; color: inherit;">
+    <div style="display: flex; align-items: center;">
+      📄&nbsp;&nbsp;See my latest posts!
+    </div>
+  </a>
+</div>

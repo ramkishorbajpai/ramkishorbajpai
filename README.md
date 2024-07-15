@@ -82,6 +82,8 @@ I'm always open to interesting conversations and collaborations. Feel free to re
     <a href="https://x.com/ramkishorbajpai"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"></a>
     <a href="https://stackoverflow.com/users/8499307/ramkishorbajpai"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"></a>
     <a href="https://github.com/ramkishorbajpai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+    <a href="https://www.youtube.com/@ramkishorbajpai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"></a>
+
 </p>
 
 ---
